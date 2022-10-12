@@ -1,4 +1,4 @@
-package com.kele.ItemPool;
+package com.kele.ItemPool.items;
 
 /**
  * @author: kele3601
